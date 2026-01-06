@@ -72,6 +72,15 @@ namespace Hackerzhuli.Code.Editor.Code
                 MacAppName = "Trae.app",
                 LinuxExeName = "trae",
                 UserDataDirName = ".trae"
+            },
+            new()
+            {
+                Name = "Antigravity",
+                WindowsDefaultDirName = "Antigravity",
+                WindowsExeName = "Antigravity.exe",
+                MacAppName = "Antigravity.app",
+                LinuxExeName = "antigravity",
+                UserDataDirName = ".antigravity"
             }
         };
 
